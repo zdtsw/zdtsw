@@ -14,8 +14,10 @@
 ## 🔭 Currently playing wtih
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-DockerEE-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=Groovy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
