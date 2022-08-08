@@ -3,14 +3,6 @@
 <h3 align="center">A not too nerdy DevOps trying to make life <-> work a bit better </h3>
 
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/zdtsw/zdtsw">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=zdtsw&theme=dracula" />
-</a>
-
-
-
-
 ## 🔭 Currently playing wtih
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a)
